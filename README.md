@@ -1,63 +1,66 @@
-# Weekly AI News｜2026-09-06 至 2026-09-13（中国标准时间）
+# Weekly AI News｜2026-09-19 至 2026-09-26（中国标准时间）
 
 本周人工智能动态精选 10 条。每条摘要均为 20–500 字，并附报道或发布链接；仅在有相应官方或热门视频时附 YouTube 链接。
 
-## 1. Anthropic 披露并阻断潜在的生物武器相关滥用
-Anthropic 在 9 月的滥用通报中表示，公司阻断了可能借助其 AI 系统推进生物武器相关工作的尝试。该事件把前沿模型的双用途风险从抽象讨论带回具体运营问题：提供商需要持续监测可疑工作流、设立干预阈值，并在发现风险后说明处置范围，同时避免将模型能力夸大为实际攻击能力。
+## 1. Google 公布“Project Suncatcher”太空 AI 计划
+Google 介绍了 Project Suncatcher：一项探索把 AI 计算能力部署到太空的长期研究计划。报道将其称为 moonshot，重点在于利用太空环境扩展计算基础设施的可能性。该构想仍面临发射成本、通信、维护、散热与经济可行性等工程和运营问题。
 
-- 报道：[AP：Anthropic says it blocked misuse of its AI that could have supported biological weapons](https://news.google.com/rss/articles/CBMinAFBVV95cUxOYTFnN2RUWHlyTzFPeHktZVhTUEhuMGRLUHFZd05XMnFGUDNvVk9RNUw1QkVEbUtMYnlrR24telBNblRMTmcyOFJSZ1NYak4tV3FzWklLNVNvaGF4eGcxa2hCOG9pZHdWU3hvcTdEcjFCSEZMRk1kSERCa3pHdlRiTXRaSmR2a1dBcWNSWkdkQ0JyM0V2YlR5OGpwdXQ?oc=5)
-- YouTube：[Anthropic 官方频道](https://www.youtube.com/@AnthropicAI)
-
-## 2. 加州签署新的 AI 保障措施
-加州州长 Newsom 宣布签署一揽子 AI 保障措施，并呼吁联邦层面跟进。州级规则的意义在于把模型开发与部署的安全、透明度和消费者保护要求进一步制度化；同时，它也让企业面对跨州合规、技术标准及责任划分如何统一的问题。
-
-- 报道：[California State Portal：Governor Newsom signs first-in-the-nation AI safeguards](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbUZRVHhudU1zcDhNQmhkRHpFNk9SOUJlN2EzZHlwZEZPdVFIcVJpU0pieUhsVGFNRUFNTWxidHRFeEJhR3ViMThRNWRHeFZncmp0dTZTazBYcXJLaXJTY0k4VmFCRW5KU0loMlJuWWhSdnhSdzFyTVNndlk2NFNRam9Pdk40U19KUnZaamZzcHYwamFLb2JkQ1hTNHJOc0Uxb1ZMbzJ1Xy1yM0p3NER2bFJuVlZESXZMNVBDRzhzVkRpREtfX1JzWGFMRkVIY2doVDY0dG50WERMdWZmcmtNbWFSYXE5ZmdZbU1sQ2RkWWNQSGc?oc=5)
-
-## 3. NSA 等机构警告前沿模型蒸馏风险
-美国国家安全局等机构警告，中国相关 AI 公司可能通过“蒸馏”等方式从美国前沿模型提取能力。这一动向凸显模型权重并非唯一需要保护的资产：API 输出、合成数据、评测交互和大规模查询同样可能被用于复制能力，也将推动厂商强化滥用检测和访问管理。
-
-- 报道：[NSA：China-Based AI Companies are Distilling U.S. Frontier AI Models](https://news.google.com/rss/articles/CBMiggJBVV95cUxQbE80SEUzdlJMcDM2NEI3dFFreTJzNVdQeFlBenYybG5RekJvUFRldEtWd3NCZ0FJSG0wbjQ4SDgwM1BWWW55YTVvX0VEQV9yUzRNMk4wLXdPZDRVMEI3THAxSU9BRmNwMFJSNEltZk5Za28zS2ZjNFR3X2pfbzJrQnhjLUlVWVlCTXQ0X042cmhoR2loWjRUdnp0Yk1xYmVjMkR6RUxjZ295djlfOHlZemlMdEtXU01McndEdU9CVVhqOUNPMFR1TWRibmhJYXlJampGNzZzdlZDWF9TQm13eEswdFktM3VxY0tmcUJoQ012XzFMcVpNNm5kY09UQld1MlE?oc=5)
-
-## 4. Microsoft 与教师工会发布学校 AI 安全与隐私标准
-美国教师联合会（AFT）、纽约市教师联合会（UFT）与 Microsoft 宣布面向学校的“国家 AI 安全与隐私标准”。该合作把学生数据保护、教师参与、透明度和课堂使用边界置于产品落地之前，反映教育 AI 的关键不只是功能丰富度，更是可问责的采购与治理机制。
-
-- 报道：[Microsoft Source：National AI Safety & Privacy Standard for schools](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRmNKZTltcDZfN0FiMkRwTlBoOHFreWxRQk5zcTROb0JUeURrb0VILUNQSnZXV3JadXZuYU5NQ0NCQXRRcE1Wa29rM1lub2EtUl80bl9aLXJhQjJkY2tOcWJLUFJMR1VSYlNibXpmN0JJQmoySkV1blFqcUFza3o4cDZsak41eTVlV0JuMWV0Sm9KczNUaGk3NEVDd0FLVEYzcUhHZUtiaG9MVWZ1R19rZkh5ZDZtX0MxUTh1eldsQzVzNHhJZkliN19wYmVtM3AtV212WHY2REJOU0FWc1pqZ0NUMU1sRkRNUFdpU1lkLXE0dzRtRmdSLXNadw?oc=5)
-- YouTube：[Microsoft Education 官方频道](https://www.youtube.com/@MicrosoftEducation)
-
-## 5. NVIDIA 扩展澳大利亚 AI 基础设施能力
-NVIDIA 宣布与澳大利亚数据中心生态合作，扩大当地 AI 基础设施容量。算力部署正由芯片供给延伸到电力、机房、网络和主权数据要求的协同建设；这类区域性基础设施投入将影响企业和研究机构获得训练与推理资源的成本和速度。
-
-- 报道：[NVIDIA Newsroom：Expands AI Infrastructure Capacity in Australia](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd2dkbUp0Zi13THRQMU1kMXNIZVktQVN5NVR2cEszemg1RWM1cURfcDBCRGhLMGJfc3NTaW12anhJeGVDb1FfTC1SaHUzcnVUTzBnVmJseHBuUngteFBFLUZQT2FkMzBaTEEzclA0WFJGT0FmZ1htaFFSX1YwNnVTNk1yT0dnNVhzUm9Vbms0U0N0ck5UNVpyUlNZZ2JaQ3NDZ0hHUEw1VE5BMjZ0dGFIX2plWTRqRHRDeG5yQTFnY3pHZlFhcG9Ndw?oc=5)
-- YouTube：[NVIDIA 官方频道](https://www.youtube.com/@NVIDIA)
-
-## 6. NASA 与 IBM 发布月球科学 AI 基础模型
-NASA 与 IBM 宣布推出用于月球科学的 AI 基础模型。项目旨在让模型协助分析与月球相关的大型科学数据集，展示基础模型在科研场景中的专用化方向：重点不止于生成文本，而在于与科学数据、专家验证和可复现实验流程相结合。
-
-- 报道：[NASA Science：NASA, IBM Launch AI Foundation Model for Lunar Science](https://news.google.com/rss/articles/CBMikwFBVV95cUxNaFlWQjYwaUlKUDJBcXY5dnVhMFBab2pnUGFpRVVrdU42b2NuaDhzUms2RDRsakc3RS0tSUpUV3prTWNRTUtqWnJrZUl1YXJLTFZGcVpBb0lLMlJKa2U1Yml0clEzT3hHdkVoM0lwMU9BU2ozcTRYeG80dlBRR18ycElfYXNUeFFQZFByb2ZiVkgtWkU?oc=5)
-- YouTube：[NASA 官方频道](https://www.youtube.com/@NASA)
-
-## 7. Google 更新 AI 订阅计划中的任务管理功能
-Google 宣布在其 AI 计划中加入新的待办与任务处理功能。此类更新体现出消费级 AI 正从单轮问答转向更贴近个人工作流的持续协助；实际体验仍取决于权限边界、日程和邮箱等数据的连接方式，以及用户对自动化建议的可控程度。
-
-- 报道：[Google Blog：Tackle your to-do list with new features in our Google AI plans](https://news.google.com/rss/articles/CBMikwFBVV95cUxNM3FoYV9rTnlleVNaMVFXd2tacXNIdzc0MUthMFhpX2F3WXlLd2FHVFlzbjlQZ2VkTllRcFBkOU9ZUk9UaXhSeTBuQUh5ZnE3Ty1HNU1uMEVCT04xYjZJSVRZQ2J2MC1DMU50aVhYYWZVb1Uwc2l0eW5VX1NWSUttN0k1UW94bVhITmFNOFF6NUM3V1E?oc=5)
+- 报道：[Google Blog：Behind Project Suncatcher, our moonshot to put AI in space](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM1BYaU0yYTZra0M4eWktSXVydEJjbTVtM0JLZUtpTlZUNWZPb2RqUHR0V1hEdlczMkZyOU90MW83eDhCWVJMSnhXLWxvcWhJMDdiNkUtZEJLR0ExN0xnMS1YdGJOaWJyRXZmZlJGQnJNVWJKbDl5dG1uMGtsRk9VbVRCcWpKVjlnUnVfMXU2VjNJOGdhOGt4UEZpeGpyNndSTUpodXphZV9jUQ?oc=5)
 - YouTube：[Google 官方频道](https://www.youtube.com/@Google)
 
-## 8. Anthropic 以新模型研究 AI 对美国经济的影响
-NPR 报道，Anthropic 推出或使用新的模型研究 AI 可能怎样影响美国经济。把模型用于经济影响评估，能帮助提出就业、生产率与行业迁移的可检验假设；但模型输出本身不是预测结论，仍需与劳动力数据、企业采用情况和独立研究相互验证。
+## 2. Google 发布 Gemini 3.8 Live 与 Live Avatar
+Google 宣布 Gemini 3.8 Live 及 Live Avatar 功能，继续把多模态交互从文字与图片延伸到实时语音、视觉和虚拟形象。此类能力有望用于客服、协作和辅助创作，但部署时仍需清楚告知用户其正在与 AI 交互，并妥善处理肖像、声音和对话数据的隐私问题。
 
-- 报道：[NPR：A new Anthropic model seeks to test how AI could impact the U.S. economy](https://news.google.com/rss/articles/CBMic0FVX3lxTE5zbl9Ya1QyeGVtRDVaTTNqVktBeFFUdXVza1VOdVh1UDZEX0FzR0hsVTdEaDg4ZG9OYWVoZlhTM0s3SHZZT3M3cG5LWFpPdThrUzJPRWdwWjEzRFU4WnZuRTYtREFXam5pV2Qwby1ta1c5bjQ?oc=5)
+- 报道：[Google Blog：Introducing Gemini 3.8 Live with Live Avatar](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMVR6bVg0OGpENG9SaWNDa3FnQWVxV2xwSjAxOXRXN09GcWxvbURoaTZVNkl0THIzX01rNnpEWkFuMGtpV2JPZXlJTmpLekZLeUF5Um5qWnlpaVYwNUZfOWdMcFlVd1dkeU1XVTItOEZ5eXRQRDJhWnlZMlVYbjFIV09kdTFEQUtTMU1HMFMxTVdENU5CajZqeTZwblBqd1JJc3Z2bi15amE?oc=5)
+- YouTube：[Google 官方频道](https://www.youtube.com/@Google)
 
-## 9. Google 计划在芬兰投入 130 亿欧元建设 AI 基础设施
-Google 表示将在两年内向芬兰 AI 基础设施投入 130 亿欧元。欧洲 AI 竞争力越来越依赖本地数据中心和低碳能源等实体条件；大型投资既可能提升区域算力供给，也会引发对能源使用、土地资源、数据主权和公共回报的持续讨论。
+## 3. Google DeepMind 推进具备服务端记忆的私有 AI 计算
+Google DeepMind 发布关于“Private AI Compute”的技术进展，提出在服务端记忆场景中加强隐私保护。对需要长期上下文的 AI 产品而言，记忆能提升连续性，却也扩大数据处理范围；因此安全计算、访问控制、数据最小化和用户可删除性将成为能否获得信任的关键。
 
-- 报道：[Google Cloud Press Corner：€13 Billion investment in AI Infrastructure in Finland](https://news.google.com/rss/articles/CBMi3wFBVV95cUxORUh0cVRJb2JtWWxYWUV3NF9CSFZweVdNNzFVeWRuV0MyX0xkaE51RkF6VXFjWXg4WWRWYmtWenpkQTZTVmdkbUZkWk5fUWpBOEdYVEZyS2Z0SnI3Rnl2SHRmUTBDLTBmeHhxTzUwb2R5OXg4aTRUd21QdWd2NFpuNTZDaHNoVTdRbjNZaHBPajlmNWhtUDZxTXJkQmF6WGFRWGN1VHFXckRFSlhaYmZKamdSMmtUT1J0VmU2ZzY1cnRpb1ZYWHFOQVhseFMzRjFBUWJLSXc0QVZnZ2QzN21j?oc=5)
-- YouTube：[Google Cloud 官方频道](https://www.youtube.com/@googlecloud)
+- 报道：[Google DeepMind：Advancing Private AI Compute with secure, server-side memory](https://news.google.com/rss/articles/CBMikwFBVV95cUxQeEdFYzJoT3FDNm8zeG91UWJCQnBxa1pJR1dYVEpUTXpWc3MxaUwwM0UxZXNISTR2MXpGeGQzWFQ5VjBMMDMxX1Zzd2oyOGVSRW9Da3lJcTk1WlFKUTBYOTJEU2Q5Z0Z3UzM3UUtxQWFNX29mNUJoNnE1bnp5dzFlMWpudnAwdkpxTEJRT2I4OFc1VTQ?oc=5)
+- YouTube：[Google DeepMind 官方频道](https://www.youtube.com/@Google_DeepMind)
 
-## 10. Anthropic CEO 呼吁放慢前沿 AI 的推进节奏
-Anthropic CEO Dario Amodei 发表《We Must Pace the Frontier》，主张在前沿能力快速提升时，应把安全、治理和社会适应速度纳入发展节奏的考量。该观点并非具体产品发布，但反映出行业内部关于能力竞赛、风险评估和监管时点的分歧正在进一步公开化。
+## 4. Google 将 Colab 纳入 AI 订阅计划
+Google 宣布 Colab 现已成为其 Google AI 计划的一部分。Colab 是广泛用于 Python、机器学习实验和协作笔记本的云端工具；纳入订阅产品说明模型能力、开发环境和计算资源正被打包为一体化服务，也让价格、额度、数据处理和供应商锁定成为开发者评估重点。
 
-- 报道：[Dario Amodei：We Must Pace the Frontier](https://news.google.com/rss/articles/CBMiZEFVX3lxTFByRm5SZWdmLXZJN2RBM2hteVFFT0F2Qk5GVFozVEFmZHlaRVhYRmJNZ1pOS1I3MGstU1JvQldUeklNYjBUcDRGLTdDMGpnMzk5VTlxS0k4anFpRzFpMWhGeTBMYVY?oc=5)
+- 报道：[Google Blog：Colab is now part of your Google AI plan](https://news.google.com/rss/articles/CBMigAFBVV95cUxOYUtPNFJ1eVc0RjJHQ0F5TkJ1ZW1DTEdRcEpkd2Y0Wk91UmtuUEFEQmh4MTFObDlfWUhyZXVxbFlsRGtTQ2dsT2Zyb3BFc3lCcUtPUi1veGNqc3hSNTNIWndtOW1zSUpYR2FHNFBqdkVDSS1Tb2tYODZPbGs0TngzVg?oc=5)
+- YouTube：[Google Developers 官方频道](https://www.youtube.com/@GoogleDevelopers)
+
+## 5. 联合国发布 AI Agent、失准与人类控制风险专题简报
+联合国发布关于 AI Agent、模型失准和失去人类控制风险的专题简报。随着系统能调用工具、分解任务并在较少人工介入下执行动作，治理重点正从单次回答的准确性扩展到权限范围、可审计性、人工接管和跨系统责任链条。
+
+- 报道：[United Nations：Thematic Brief on AI Agents, Misalignment and the Risk of Losing Human Control](https://news.google.com/rss/articles/CBMisgFBVV95cUxQelgycTJ1SVBXYnJRSWdrdnFaS1VzaTBBWkt3WG9WZnNkOVN6d25TenhLdU5jLTN4c1dZcjVIRDBTR25aVjZkZGJwQlhqdEZncFFodXpDdm1ORDNhN3JwV0Y4MWNPUkMwSjBMM2RkMVlOVTNObGtYTVlHdnh4U0pNbG5kRUlSYVNtOXpqRUNOOE93QnIwdGEtTXAzWkYtVWN1WVFDMkU4T3I1LTVNemxlWDFn?oc=5)
+- YouTube：[United Nations 官方频道](https://www.youtube.com/@UN)
+
+## 6. WHO 呼吁强化 AI 健康研究的伦理监督
+世界卫生组织发布报告，呼吁加强与 AI 相关健康研究的伦理监督。医疗 AI 的研究价值取决于数据代表性、临床验证和可解释的风险管理；在将模型引入诊疗或公共卫生决策前，还必须落实知情同意、隐私保护、公平性评估及明确的专业责任。
+
+- 报道：[WHO：New report calls for stronger ethics oversight of AI-related health research](https://news.google.com/rss/articles/CBMivgFBVV95cUxObWI0RE16NFp2cWNtSlloNzctM2ZXa0kyemh0NURIWUVaQVZHNlhld25kTEUwZkcyallVUHRoZUNfaXoyOHkwenRteEI2RzFKNUo1b0l0UTgtSHhMdjg5eUN2NnZLS05xU1VXSGQ2QklxQzFkQjhwNWVnRHZsVU9XZUdXOTlqbzI0YzFOeEw4UnZ2WGVvQi1HTVBoaU04bTNEME5RaVdvMHVFeElmNFVLN3NQcENOeFZTdjVRcGZB?oc=5)
+- YouTube：[World Health Organization 官方频道](https://www.youtube.com/@WHO)
+
+## 7. 纽约州公布针对主要 AI 开发商的监管后续措施
+纽约州州长 Kathy Hochul 宣布推进对大型 AI 开发商的监管与保护措施。该州级政策信号表明，监管正更关注前沿开发者的治理义务和对公众的潜在风险；企业则需面对不同地区规则并存时的合规、评估和信息披露挑战。
+
+- 报道：[Governor Kathy Hochul：Next Steps to Regulate Major AI Developers](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQnpZVEdCWnVtN1h0VmdrSldyZGlaZUNDSzhLZmZFbUIxcWpHcUg2NzRfMG9LVUlOcV91QmRVQjg3eVF3akpYZWgxeUxxeENRTGd0bTI4Z3p1Sm9VVUk1a3ItYVVrMWFyeENNUnpNamZOdWRMcWYyMnh1UUFxejl3d2lFLUdCWFNaUHk3czR1elowaGdOT09MNlQwRnExeEFIaFJqaHpjMnJVRTRTemwySl9IR2duYXI2WUZ3UmVrNm43UQ?oc=5)
+
+## 8. OpenAI 提出下一阶段 AI 标准建设方向
+OpenAI 发表“Building standards for the next phase of AI”，讨论下一阶段 AI 标准的建设。随着模型能力和应用范围扩大，通用的测试方法、报告机制、部署限制和互操作规范会影响外部审计与监管执行；标准能否有效还取决于是否透明、可验证和被广泛采纳。
+
+- 报道：[OpenAI：Building standards for the next phase of AI](https://news.google.com/rss/articles/CBMiakFVX3lxTE9Hdk5PcXZDNWxPVm9UMkJ4aVdtblM3ZjU5eDFNc3lNdkNEMDVMSi1NNzBGcTRHSFU5NWlzLWpBZWU1M1NTUjF4NzA2ZTJYaU5kbk1kclVwcHFNNmp5QWVBWUhONEt2bVROeVE?oc=5)
+- YouTube：[OpenAI 官方频道](https://www.youtube.com/@OpenAI)
+
+## 9. Meta 推出更多 Ray-Ban Meta Audio 与 AI 眼镜款式
+Meta 宣布增加 Ray-Ban Meta Audio 和更多 AI 眼镜款式。将语音助手、摄像头和环境感知置入可穿戴设备，会把 AI 从桌面和手机带到公共空间；产品普及同时要求更清晰的录制提示、旁观者隐私保护以及对收集内容的可控使用规则。
+
+- 报道：[Meta：Introducing Ray-Ban Meta Audio and More AI Glasses Styles](https://news.google.com/rss/articles/CBMimgFBVV95cUxOc2xhekZWMlRHX3g0Qkhnc1dicE02VEFZZFE0YkFJS1J6QUNaN0RHWU1raThNM3d0alhJZTdVYU5kVmJUR0ozOEVCNlpFTFJJRkhoNFRZQjNrNi1HRjB4MnRsSHlIbzZodVhlWUViS3QwRU90bVVUSzB2VmRXU0htcnNiZ295WmxMNTZGNXpmY1ZhRzFGQWtIMV9n0gGfAUFVX3lxTE5ZSWRWMFFJZVdnMXV3cW5OMjJVTDRiR2NMOFl6Z1h0Nk1yMTFFSkFNdmVZMWpjMGxKV1M5UkZHek14c2RrMDRsenU1NmlKYmVwQVNZMmhhTzBhTS1JWGgxNkFXQTNuV3ZiMDI0Sk1WZkpnMUw3aWFNa29iQUxTbThXTkFMZExaTHVtc3J0UDI3UnI1Q1Q2TlVwNHJOUjFfVQ?oc=5)
+- YouTube：[Meta 官方频道](https://www.youtube.com/@Meta)
+
+## 10. Anthropic 与 OpenEvidence 合作推进医疗 AI 全球应用
+路透社报道，Anthropic 与医疗 AI 公司 OpenEvidence 达成合作，计划推动医疗 AI 在全球范围的应用。医疗场景中的模型部署需要与循证信息、临床流程和监管标准相衔接；合作能否转化为实际收益，仍取决于本地数据质量、医生监督、患者安全和对错误建议的责任安排。
+
+- 报道：[Reuters：Anthropic, OpenEvidence partner to bring medical AI worldwide](https://news.google.com/rss/articles/CBMirwFBVV95cUxOLVV5RE9jdGNuVXUycl9fTjJ1Ty1tVzZ2U1MxcWtaZDhXOGpqc29yTENvLVJtZ19PM09MQng5azRmbU5kNG40dUtBcVcxN0U1eGZNUkZwaXA0amt6R25qak9za19YTTNKVHFDVGg0VVVzN3V2VjFHdnBHN3BpUmtQR3BUdThUd3FqbXJIOHZLVE1kbVVRV005bDJmM3o3N2Z2Z3Bvd2NYZjhSLUdpYUhZ?oc=5)
+- YouTube：[Anthropic 官方频道](https://www.youtube.com/@AnthropicAI)
 
 ---
 
-> 说明：本清单按 2026-09-13（中国标准时间）回溯一周内的公开报道整理。链接优先指向报道或发布方；部分报道可能需要订阅访问。
+> 说明：本清单按 2026-09-26（中国标准时间）回溯一周内的公开报道整理。链接优先指向报道或发布方；部分报道可能需要订阅访问。
